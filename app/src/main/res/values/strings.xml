@@ -2,7 +2,7 @@
     <string name="app_name">Mediasoup AndroidSample</string>
 
     <!-- Env -->
-    <string name="server_socket_url">wss://192.168.60.99</string>
+    <string name="server_socket_url">wss://172.27.12.20:4443</string>
 
     <!-- for Buttons -->
     <string name="play_button_content_description">Play Track</string>
